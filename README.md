@@ -3,10 +3,10 @@
 
 ## Student Information
 
-**Name:** Your Complete Name  
+**Name:** Cedric F. Manguilimotan  
 **Year Level:** 4th Year  
-**Set/Section:** Your Section  
-**Subject:** Your Subject Name
+**Set/Section:** BSIT 4B  
+**Subject:** IT415 - 
 
 ## About the Project
 

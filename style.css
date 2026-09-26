@@ -625,6 +625,8 @@ footer {
     color: #BFC1C5;
 
     padding: 25px 0;
+
+    width: min(850px, 92%);
 }
 
 

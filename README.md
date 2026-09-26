@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal CV Web Page
 
 ## Student Information
@@ -12,3 +13,4 @@
 This repository contains my personal Curriculum Vitae (CV) webpage created using HTML and CSS.
 
 The webpage presents my personal introduction, educational background, technical skills, and contact information.
+

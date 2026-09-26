@@ -627,6 +627,12 @@ footer {
     padding: 25px 0;
 
     width: min(850px, 92%);
+
+    /* Centers the block element on the page */
+    margin: 0 auto; 
+    
+    /* Centers the text inside the footer */
+    text-align: center;
 }
 
 

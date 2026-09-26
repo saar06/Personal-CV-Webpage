@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Personal CV Web Page
 
 ## Student Information

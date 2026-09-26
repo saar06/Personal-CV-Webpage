@@ -51,7 +51,7 @@ a {
 ======================================== */
 
 .container {
-    width: min(1120px, 92%);
+    width: min(850px, 92%);
     margin: 0 auto;
 }
 
@@ -629,7 +629,7 @@ footer {
 
 
 .footer-content {
-    width: min(1120px, 92%);
+    width: min(850px, 92%);
 
     margin: auto;
 

@@ -9,7 +9,7 @@
 
 ## About the Project
 
-This repository contains my personal Curriculum Vitae (CV) webpage created using HTML and CSS.
+This repository contains my Personal CV Webpage created for my Application Development and Emerging Technologies activity.
 
 The webpage presents my personal introduction, educational background, technical skills, and contact information.
 

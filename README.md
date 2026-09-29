@@ -9,7 +9,9 @@
 
 ## About the Project
 
-This repository contains my Personal CV Webpage created for my Application Development and Emerging Technologies activity.
+
+This repository contains my personal Curriculum Vitae (CV)
+>>>>>>> student-b
 
 The webpage presents my personal introduction, educational background, technical skills, and contact information.
 

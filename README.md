@@ -11,7 +11,6 @@
 
 
 This repository contains my personal Curriculum Vitae (CV)
->>>>>>> student-b
 
 The webpage presents my personal introduction, educational background, technical skills, and contact information.
 

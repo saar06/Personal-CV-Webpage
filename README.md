@@ -1,16 +1,26 @@
-# Personal CV Web Page
+﻿# Cedric F. Manguilimotan | Personal CV Website
 
-## Student Information
+## Project Title
+Cedric F. Manguilimotan | Personal CV Website
 
-**Name:** Cedric F. Manguilimotan  
-**Year Level:** 4th Year  
-**Set/Section:** BSIT 4B  
-**Subject:** IT415 - 
+## Short Description
+This project is a responsive and visually polished CV webpage created to present my academic background, technical skills, and project experience in a professional online format.
 
-## About the Project
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Google Fonts
+- Responsive web design
 
+## Student Name
+Cedric F. Manguilimotan
 
-This repository contains my personal Curriculum Vitae (CV)
+## Live Vercel Link
+https://your-project-name.vercel.app
 
-The webpage presents my personal introduction, educational background, technical skills, and contact information.
+## Repository
+https://github.com/saar06
 
+## Notes
+This portfolio is designed for desktop, tablet, and mobile screens and includes smooth interactions, structured sections, and a professional layout.

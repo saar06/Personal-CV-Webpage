@@ -17,7 +17,7 @@ This project is a responsive and visually polished CV webpage created to present
 Cedric F. Manguilimotan
 
 ## Live Vercel Link
-https://your-project-name.vercel.app
+https://personal-cv-webpage.vercel.app/
 
 ## Repository
 https://github.com/saar06

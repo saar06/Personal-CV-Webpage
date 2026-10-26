@@ -20,7 +20,7 @@ Cedric F. Manguilimotan
 https://personal-cv-webpage.vercel.app/
 
 ## Repository
-https://github.com/saar06
+https://github.com/saar06/Personal-CV-Webpage
 
 ## Notes
 This portfolio is designed for desktop, tablet, and mobile screens and includes smooth interactions, structured sections, and a professional layout.
